@@ -1,0 +1,5 @@
+/gosup
+*.log
+*.pid
+/gosup-*
+/gosup.ini
